@@ -4,7 +4,8 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react-dom": "16.9.0",
+    "use-async-memo": "1.2.2"
   },
   "devDependencies": {
     "@types/node": "12.7.2",
